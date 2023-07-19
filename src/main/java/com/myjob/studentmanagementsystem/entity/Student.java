@@ -1,4 +1,4 @@
-package com.myjob.studentmanagementsystem.controller;
+package com.myjob.studentmanagementsystem.entity;
 
 import jakarta.persistence.*;
 
